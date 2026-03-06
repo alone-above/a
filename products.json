@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Оверсайз Худи «VOID»",
+    "price": 4990,
+    "description": "Тяжёлый хлопок 420г/м². Дроп-плечо, объёмный капюшон. Цвет: Onyx Black.",
+    "emoji": "🖤",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Лонгслив «SIGNAL»",
+    "price": 3490,
+    "description": "Рибана 240г/м². Принт на спине. Цвет: Ash White.",
+    "emoji": "🤍",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Карго «ABOVE»",
+    "price": 6990,
+    "description": "Twill 300г/м². 6 карманов, зауженный крой. Цвет: Graphite.",
+    "emoji": "🩶",
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Бейсболка «ALONE»",
+    "price": 1990,
+    "description": "6-панельная, нерегулируемая. Вышивка. Цвет: Black/White.",
+    "emoji": "🧢",
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=600&q=80"
+  }
+]
